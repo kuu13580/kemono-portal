@@ -24,6 +24,7 @@
         "sass-loader": "^11.0.1"
     },
     "dependencies": {
+        "@fontsource/noto-sans-jp": "^4.5.12",
         "@mui/material": "^5.11.16",
         "@mui/styled-engine-sc": "^5.11.11",
         "styled-components": "^5.3.9"
