@@ -1,7 +1,7 @@
 import { Typography } from "@mui/material";
 import NavBar from "../components/NavBar";
 
-const TopPage = () => {
+const Top = () => {
   return (
     <>
       <NavBar></NavBar>
@@ -12,4 +12,4 @@ const TopPage = () => {
   );
 }
 
-export default TopPage;
+export default Top;
